@@ -11047,7 +11047,7 @@ function cp() {
           onClick: r,
           children: [
             ye.jsx("img", { src: ap, alt: "splash image" }),
-            "Click Me",
+            "Click To Continue",
           ],
         }),
       !t &&
